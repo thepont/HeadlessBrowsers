@@ -50,7 +50,7 @@ Name  | About  | Supported Languages | License
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
 |[Awesomium](http://www.awesomium.com/) | Chromium-based headless browser engine|C++, .NET| Free/Commercial |
-|[Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) | Headless Chromium is a library for running Chromium in a headless/server environment.|C++| Not Specified |
+|[Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) | Headless Chromium is part of the main Chromium project, it is in the current nightly build, although not yet released |C++| Opensource |
 
 ## Webkit drivers
 
